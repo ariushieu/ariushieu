@@ -48,6 +48,6 @@ I am a Back-end Developer with a passion for building robust and efficient syste
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=ariushieu&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="height: 10rem; width: auto;" />
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariushieu&theme=tokyonight&hide=pawn,pascal,Assembly,Java&layout=compact" alt="Top Languages" style="height: 10rem; width: auto;" /> -->
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariushieu&theme=tokyonight&hide=pawn,pascal,Assembly&layout=compact&nocache=true" alt="Top Languages" style="height: 10rem; width: auto;" />
- <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariushieu&theme=tokyonight&hide=pawn,pascal,Assembly&layout=compact" alt="Top Languages" style="height: 10rem; width: auto;" /> -->
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariushieu&theme=tokyonight&hide=pawn,pascal,Assembly&layout=compact&nocache=true" alt="Top Languages" style="height: 10rem; width: auto;" /> -->
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariushieu&theme=tokyonight&hide=pawn,pascal,Assembly&layout=compact" alt="Top Languages" style="height: 10rem; width: auto;" />
 </div>
