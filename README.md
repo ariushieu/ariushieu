@@ -46,9 +46,6 @@ I am a Back-end Developer with a passion for building robust and efficient syste
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=ariushieu&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="height: 10rem; width: auto;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariushieu&theme=tokyonight&hide=pawn,pascal,Assembly&layout=compact&cache_seconds=3600" alt="Top Languages" style="height: 10rem; width: auto;" />
- <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariushieu&theme=tokyonight&hide=pawn,pascal,Assembly&layout=compact&nocache=true" alt="Top Languages" style="height: 10rem; width: auto;" /> -->
- <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariushieu&theme=tokyonight&hide=pawn,pascal,Assembly&layout=compact" alt="Top Languages" style="height: 10rem; width: auto;" /> -->
- <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariushieu&theme=tokyonight&hide=pawn,pascal,Assembly&layout=compact&cache_seconds=1" alt="Top Languages" style="height: 10rem; width: auto;" /> -->
+  <img src="https://github-stats-kdo49m4ja-hieus-projects-8a5e33de.vercel.app/api/stats/ariushieu?theme=light" alt="GitHub Stats" />
+  <img src="https://github-stats-kdo49m4ja-hieus-projects-8a5e33de.vercel.app/api/top-langs/ariushieu?theme=light&layout=compact&hide=pawn,pascal,Assembly" alt="Top Languages" />
 </div>
