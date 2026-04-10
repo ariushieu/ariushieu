@@ -46,7 +46,12 @@ I am a Back-end Developer with a passion for building robust and efficient syste
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align="center">
-  <img src="https://github-stats-sigma-eight.vercel.app/api/stats/ariushieu?theme=light" alt="GitHub Stats" />
-  <img src="https://github-stats-sigma-eight.vercel.app/api/top-langs/ariushieu?theme=light&layout=compact&hide=pawn,pascal,Assembly" alt="Top Languages" />
+  <a href="https://github.com/ariushieu">
+    <img src="https://github-stats-sigma-eight.vercel.app/api/stats/ariushieu?theme=dracula" alt="GitHub Stats" height="180" />
+  </a>
+  <a href="https://github.com/ariushieu">
+    <img src="https://github-stats-sigma-eight.vercel.app/api/top-langs/ariushieu?theme=dracula&layout=compact&hide=pawn,pascal,Assembly" alt="Top Languages" height="180" />
+  </a>
 </div>
+
 
