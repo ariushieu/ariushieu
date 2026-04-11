@@ -49,7 +49,8 @@
 
 <img src="https://img.shields.io/badge/Claude_Code-282C34?logo=anthropic&logoColor=white&style=for-the-badge" alt="Claude Code" title="Claude Code" height="30" />&nbsp;
 <img src="https://img.shields.io/badge/Antigravity-282C34?logo=google&logoColor=4285F4&style=for-the-badge" alt="Antigravity" title="Antigravity" height="30" />
-
+<img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white&style=for-the-badge" alt="Cursor" title="Cursor" height="30" />&nbsp;
+<img src="https://img.shields.io/badge/Kiro_Dev-FF4B4B?logo=robot&logoColor=white&style=for-the-badge" alt="Kiro Dev" title="Kiro Dev" height="30" />
 </div>
 
 ---
