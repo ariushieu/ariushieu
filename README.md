@@ -20,6 +20,14 @@
 
 ## <img src="https://raw.githubusercontent.com/jdecked/twemoji/main/assets/svg/1f6f0.svg" width="24" /> &nbsp;Mission Profile
 
+<div align="center">
+  <img src="assets/mission-profile.svg" width="100%" alt="Mission profile readout — callsign ariushieu; role Back-end Developer; core: Java, Spring Boot, REST API Design; in orbit: Spring Security, Microservices, Docker, CI/CD; copilots: Claude Code, Codex; contact hieunguyen2005q@gmail.com; status online, accepting new missions" />
+</div>
+
+<div align="center">
+<details>
+<summary><sub>text version</sub></summary>
+
 ```yaml
 callsign:   ariushieu
 role:       Back-end Developer
@@ -30,6 +38,9 @@ ask_me_at:  backend architecture · API design · JVM internals
 contact:    hieunguyen2005q@gmail.com
 status:     ONLINE — accepting new missions
 ```
+
+</details>
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8BE9FD,50:FF79C6,100:BD93F9&height=2&section=header" width="100%" alt="" />
