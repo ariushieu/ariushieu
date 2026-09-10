@@ -18,10 +18,10 @@
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/jdecked/twemoji/main/assets/svg/1f6f0.svg" width="24" /> &nbsp;Mission Profile
+## <img src="https://raw.githubusercontent.com/jdecked/twemoji/main/assets/svg/1f4bb.svg" width="24" /> &nbsp;About
 
 <div align="center">
-  <img src="assets/mission-profile.svg" width="100%" alt="Mission profile readout. Callsign: ariushieu. Role: Back-end Developer. Core: Java, Spring Boot, REST API Design. In orbit: Spring Security, Microservices, Docker, CI/CD. Copilots: Claude Code, Codex. Ask me about: backend architecture, API design, JVM internals. Contact: hieunguyen2005q@gmail.com. Status: online, accepting new missions." />
+  <img src="assets/whoami.svg" width="100%" alt="Terminal session. whoami: Back-end Developer. stack.txt: Java, Spring Boot, REST API Design. learning/: spring-security, microservices, docker, ci-cd. copilots: Claude Code, Codex. ask-me-about.txt: backend architecture, API design, JVM internals. contact.txt: hieunguyen2005q@gmail.com, open to work." />
 </div>
 
 <div align="center">
