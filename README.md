@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1B1035,75:6D28D9,100:BD93F9&height=210&section=header&text=ARIUSHIEU&fontSize=68&fontColor=F8F8F2&fontAlignY=36&animation=fadeIn&desc=Back-end%20Engineer%20%C2%B7%20Building%20systems%20that%20scale&descAlignY=57&descSize=16" width="100%" alt="Ariushieu" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1B1035,75:6D28D9,100:BD93F9&height=210&section=header&text=ARIUSHIEU&fontSize=68&fontColor=F8F8F2&fontAlignY=36&animation=fadeIn&desc=Backend%20Engineer%20%C2%B7%20Building%20systems%20that%20scale&descAlignY=57&descSize=16" width="100%" alt="Ariushieu" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1200&color=8BE9FD&center=true&vCenter=true&width=520&height=45&lines=%3E+Java+%2F+Spring+Boot+Engineer;%3E+Designing+clean%2C+scalable+APIs;%3E+Shipping+with+Claude+Code+%2B+Codex;%3E+Always+learning%2C+always+building" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 <a href="https://github.com/ariushieu?tab=followers">
   <img src="https://img.shields.io/github/followers/ariushieu?label=FOLLOWERS&style=for-the-badge&color=8BE9FD&labelColor=0D1117" alt="GitHub Followers" />
 </a>
-<img src="https://img.shields.io/badge/FOCUS-BACKEND%20%2F%20AI--ASSISTED-50FA7B?style=for-the-badge&labelColor=0D1117" alt="Focus" />
+<img src="https://img.shields.io/badge/FOCUS-BACKEND%20%2F%20AI%20ASSISTED-50FA7B?style=for-the-badge&labelColor=0D1117" alt="Focus" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:BD93F9,50:8BE9FD,100:FF79C6&height=3&section=header" width="100%" alt="" />
 
@@ -21,7 +21,7 @@
 ## <img src="https://raw.githubusercontent.com/jdecked/twemoji/main/assets/svg/1f4bb.svg" width="24" /> &nbsp;About
 
 <div align="center">
-  <img src="assets/whoami.svg" width="100%" alt="Terminal session. whoami: Back-end Developer. stack.txt: Java, Spring Boot, REST API Design. learning/: spring-security, microservices, docker, ci-cd. copilots: Claude Code, Codex. ask-me-about.txt: backend architecture, API design, JVM internals. contact.txt: hieunguyen2005q@gmail.com, open to work." />
+  <img src="assets/whoami.svg" width="100%" alt="Terminal session. whoami: Backend Developer. stack.txt: Java, Spring Boot, REST API Design. learning/: spring-security, microservices, docker, ci-cd. copilots: Claude Code, Codex. ask-me-about.txt: backend architecture, API design, JVM internals. contact.txt: hieunguyen2005q@gmail.com, open to work." />
 </div>
 
 <div align="center">
@@ -34,16 +34,16 @@
 <table>
 <tr>
 <td align="center" width="25%">
-  <sub><b>BACK-END</b></sub><br /><br />
-  <img src="https://skillicons.dev/icons?i=java,spring,python&theme=dark" alt="Back-end" />
+  <sub><b>BACKEND</b></sub><br /><br />
+  <img src="https://skillicons.dev/icons?i=java,spring,python&theme=dark" alt="Backend" />
 </td>
 <td align="center" width="25%">
   <sub><b>DATA LAYER</b></sub><br /><br />
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=dark" alt="Database" />
 </td>
 <td align="center" width="25%">
-  <sub><b>FRONT-END</b></sub><br /><br />
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" alt="Front-end" />
+  <sub><b>FRONTEND</b></sub><br /><br />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" alt="Frontend" />
 </td>
 <td align="center" width="25%">
   <sub><b>GROUND CONTROL</b></sub><br /><br />
@@ -60,11 +60,11 @@
 <tr>
 <td align="center" width="50%">
   <img src="https://img.shields.io/badge/CLAUDE%20CODE-D97757?logo=anthropic&logoColor=white&style=for-the-badge" height="34" alt="Claude Code" /><br /><br />
-  <sub>Agentic pair-programming in the terminal —<br />architecture, refactors, full-stack MVPs.</sub>
+  <sub>Agentic pair programming in the terminal.<br />Architecture, refactors, full stack MVPs.</sub>
 </td>
 <td align="center" width="50%">
   <img src="https://img.shields.io/badge/CODEX-000000?logo=openai&logoColor=white&style=for-the-badge" height="34" alt="Codex" /><br /><br />
-  <sub>Delegated task execution —<br />parallel changes, tests, sweeping edits.</sub>
+  <sub>Delegated task execution.<br />Parallel changes, tests, sweeping edits.</sub>
 </td>
 </tr>
 </table>
