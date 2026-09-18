@@ -21,7 +21,7 @@
 ## <img src="https://raw.githubusercontent.com/jdecked/twemoji/main/assets/svg/1f4bb.svg" width="24" /> &nbsp;About
 
 <div align="center">
-  <img src="assets/whoami.svg" width="100%" alt="Terminal session. whoami: Backend Developer. stack.txt: Java, Spring Boot, REST API Design. learning/: spring-security, microservices, docker, ci-cd. copilots: Claude Code, Codex. ask-me-about.txt: backend architecture, API design, JVM internals. contact.txt: hieunguyen2005q@gmail.com, open to work." />
+  <img src="assets/about.svg" width="100%" alt="Spring Boot startup log. Role: Backend Developer. Registered beans: Java, Spring Boot, REST API Design. Datasources: MySQL, MongoDB. Copilots registered: Claude Code, Codex. Still loading: Spring Security, Microservices, Docker, CI/CD. Contact: hieunguyen2005q@gmail.com. Ask me about backend architecture, API design, JVM internals. Started in 2.13 seconds, open to work." />
 </div>
 
 <div align="center">
